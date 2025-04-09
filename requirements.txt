@@ -1,0 +1,8 @@
+streamlit==1.33.0
+plotly==5.20.0
+pymongo==4.6.1
+geopy==2.4.1
+requests==2.31.0
+python-dotenv==1.0.1
+pandas==2.2.1
+fpdf==1.7.2
