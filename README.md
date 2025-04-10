@@ -55,12 +55,12 @@ This Streamlit-based weather dashboard lets users search for any location using 
 ## 📂 Project Structure
 
    ```bash
-📁 weather_dashboard/
-├── app.py                ← Streamlit frontend
-├── utils/
-│   └── weather_api.py    ← All API and MongoDB logic
-├── .env                  ← Secure API keys
-├── requirements.txt      ← All dependencies
+     📁 weather_dashboard/
+     ├── app.py      ← Streamlit  frontend
+     ├── utils/
+     │   └── weather_api.py   ← AllMongoDB logic
+     ├── .env                  ← Secure API keys
+     ├── requirements.txt      ← All dependencies
 
 
 
