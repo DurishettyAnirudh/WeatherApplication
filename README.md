@@ -20,7 +20,7 @@ This Streamlit-based weather dashboard lets users search for any location using 
 | Real-time weather info                           | ✅ Implemented   |
 | Detailed weather cards (temp, wind, humidity…)   | ✅ Implemented   |
 | 5-day forecast with interactive charts           | ✅ Implemented   |
-| Flexible input (City, Landmark, GPS, etc.)       | ✅ Implemented   |
+| Flexible input (City, Landmark, etc.)       | ✅ Implemented   |
 | API-based live weather data                      | ✅ Implemented   |
 | Icons/images for visual context                  | ✅ Implemented   |
 | Location-aware fallback support                  | ✅ Implemented   |
