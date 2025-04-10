@@ -54,6 +54,7 @@ This Streamlit-based weather dashboard lets users search for any location using 
 
 ## 📂 Project Structure
 
+```bash
 📁 weather_dashboard/
 ├── app.py                ← Streamlit frontend
 ├── utils/
