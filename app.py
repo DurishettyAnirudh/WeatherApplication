@@ -29,7 +29,9 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+
 st.title("🌦️ Feature-Rich Weather Dashboard")
+
 
 # Create main columns
 col2, col1 = st.columns([1, 2])
