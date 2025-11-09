@@ -20,7 +20,7 @@ This Streamlit-based weather dashboard lets users search for any location using 
 | Real-time weather info                           | ✅ Implemented   |
 | Detailed weather cards (temp, wind, humidity…)   | ✅ Implemented   |
 | 5-day forecast with interactive charts           | ✅ Implemented   |
-| Flexible input (City, Landmark, etc.)            | ✅ Implemented   |
+| Flexible input (City, Landmark, etc.)       | ✅ Implemented   |
 | API-based live weather data                      | ✅ Implemented   |
 | emojis for visual context                        | ✅ Implemented   |
 | Simple, effective UI (Streamlit layout)          | ✅ Implemented   |
@@ -53,12 +53,13 @@ This Streamlit-based weather dashboard lets users search for any location using 
 
 ## 📂 Project Structure
 
-📁 weather_dashboard/
-├── app.py                ← Streamlit frontend
-├── utils/
-│   └── weather_api.py    ← All API and MongoDB logic
-├── .env                  ← Secure API keys
-├── requirements.txt      ← All dependencies
+     ```bash
+     📁 weather_dashboard/
+     ├── app.py      ← Streamlit  frontend
+     ├── utils/
+     │   └── weather_api.py   ← AllMongoDB logic
+     ├── .env                  ← Secure API keys
+     ├── requirements.txt      ← All dependencies
 
 
 
